@@ -1,0 +1,6 @@
+data/
+_tmp/
+__pycache__/
+.pytest_cache/
+*.pyc
+문제행*.csv

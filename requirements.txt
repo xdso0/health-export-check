@@ -1,0 +1,13 @@
+pandas>=2.0
+openpyxl>=3.1
+python-docx>=1.1
+rdata>=1.0
+# 이미지·영상·DICOM
+pillow>=10.0
+pydicom>=3.0
+opencv-python-headless>=4.8
+rapidocr>=3.0
+onnxruntime>=1.17
+# 시험
+pytest>=8.0
+scikit-image>=0.22
